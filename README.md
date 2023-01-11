@@ -60,3 +60,4 @@ L'application sera utilisable par les utilisateurs du laboratoire de l'IUT clerm
 ## Roadmap 🚀
 
 ## Auteurs ✒️
+AUGUSTIN AFFOGNON
